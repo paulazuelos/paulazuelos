@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600" alt="Hello there">
-</p>
-
-<p align="center">
-Hi! I'm F-G (short for François-Guillaume :fr:) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</p>
 
 <details>
   <summary>About me 👈</summary>
