@@ -1,8 +1,7 @@
 
 
-- 👨‍🦱 I'm a R&D Engineer (Physics/ Image Processing) )
-- :heart: 
-- 🌱 Currently learning about APIs & physics simulation
+👨‍🦱 I'm a R&D Engineer -> Physics/ Signal & Image processing
+
 
 </details>
 
