@@ -11,6 +11,7 @@
    - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![C#](https://camo.githubusercontent.com/b6bb7e896dde004dfccd659f5c28ea8eed32363165f2ac4c34acb1d3a0caf34c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666c61742d737175617265266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+![Matlab](https://camo.githubusercontent.com/df0502c80beb74aa002d8db6fd9e38c305e7ac3788c58e5383bb37da6eb4240c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61746c61622d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174726978266c6f676f436f6c6f723d7768697465)
 
     - Libraries & frameworks: 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
