@@ -25,7 +25,9 @@
 
 - How I write fancy equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
-- Where I share my work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+- Where I share my work: 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://camo.githubusercontent.com/ee0b29c084ed34315ec537382415472aa4018bed793cef8454aa3f1e5bf70a56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269746275636b65742d3030353243433f7374796c653d666c6174266c6f676f3d4269746275636b6574266c6f676f436f6c6f723d7768697465)
 
 - How I serve my applications: 
 
