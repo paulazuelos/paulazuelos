@@ -13,7 +13,7 @@
 
     - Libraries & frameworks: 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
+![Scikit-learn](https://camo.githubusercontent.com/ded3313717ccd403a7879baba52b83c5f2da691a5208ad08ee20c9990e6003fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69742532304c6561726e2d626c61636b3f6c6f676f3d7363696b69742d6c6561726e267374796c653d706c6173746963)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
