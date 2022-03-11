@@ -22,6 +22,7 @@
 ![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+![Django](https://camo.githubusercontent.com/9f47ab44c8425fb370779a070dee85979d5ec780212db4cc44c203de2ee4c384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465)
 
 - How I write fancy equations: ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
