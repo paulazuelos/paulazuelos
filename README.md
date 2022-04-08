@@ -40,4 +40,6 @@
 
 - Optics / Photonics / Integrated Optics
 
+### Github stats ![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=paulazuelos&show_icons=true)
