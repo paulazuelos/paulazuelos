@@ -41,3 +41,5 @@
 - Optics
 - Photonics
 - Integrated Optics
+
+![github stats](https://github-readme-stats.vercel.app/api?username=paulazuelos&show_icons=true)
