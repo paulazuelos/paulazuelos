@@ -1,19 +1,19 @@
-
-
-👨‍🦱 I'm a R&D Engineer -> Physics/ Signal & Image processing
+👨‍🦱 I'm a R&D Engineer working mainly on Physics, Signal & Image processing
 
 
 </details>
 
-### Tech stack 💻
+### 💻 Tech stack 
 
-- What I mostly work with:
-   - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![C#](https://camo.githubusercontent.com/b6bb7e896dde004dfccd659f5c28ea8eed32363165f2ac4c34acb1d3a0caf34c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666c61742d737175617265266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
-![Matlab](https://camo.githubusercontent.com/df0502c80beb74aa002d8db6fd9e38c305e7ac3788c58e5383bb37da6eb4240c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61746c61622d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174726978266c6f676f436f6c6f723d7768697465)
+**Langages:**
 
-    - Libraries & frameworks: 
+<code><img height="20" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/b6bb7e896dde004dfccd659f5c28ea8eed32363165f2ac4c34acb1d3a0caf34c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666c61742d737175617265266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/df0502c80beb74aa002d8db6fd9e38c305e7ac3788c58e5383bb37da6eb4240c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61746c61622d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174726978266c6f676f436f6c6f723d7768697465"></code>
+
+**Frameworks:**
+    
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://camo.githubusercontent.com/ded3313717ccd403a7879baba52b83c5f2da691a5208ad08ee20c9990e6003fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69742532304c6561726e2d626c61636b3f6c6f676f3d7363696b69742d6c6561726e267374796c653d706c6173746963)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -36,10 +36,18 @@
 ![FastAPI](https://img.shields.io/badge/Web-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
 
-### Scientific stack 🚀
+### 🚀 Scientific stack 
 
 - Optics / Photonics / Integrated Optics
 
-### Github stats ![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Contact me 
+   
+- 💼 any help needed, [email](mailto:paul.azuelos@hotmail.fr) :)
+- 💬 ask me about anything, i am happy to help;
 
-![github stats](https://github-readme-stats.vercel.app/api?username=paulazuelos&show_icons=true)
+### 📈 my github stats
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=paulazuelos&show_icons=true&theme=gotham" alt="paulazuelos" />
+ 
+
