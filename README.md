@@ -1,4 +1,4 @@
-👨‍🦱 I'm a R&D Engineer working mainly on Physics, Signal & Image processing
+👨‍🦱 I'm a French R&D Engineer working mainly on Physics, Signal & Image processing and nicely designed UI and Web features.
 
 
 </details>
